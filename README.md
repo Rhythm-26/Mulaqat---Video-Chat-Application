@@ -57,14 +57,14 @@ Create your application on google , facebook and github console
 and register your callback url mentioned in server.js file corresponding to every authentication strategy
 
 Create .env file in root folder and add these details from the created application
-GOOGLE_CLIENT_ID=
-GOOGLE_CLIENT_SECRET=
+- GOOGLE_CLIENT_ID=
+- GOOGLE_CLIENT_SECRET=
 
-FACEBOOK_APP_ID=
-FACEBOOK_APP_SECRET=
+- FACEBOOK_APP_ID=
+- FACEBOOK_APP_SECRET=
 
-GITHUB_CLIENT_ID=
-GITHUB_CLIENT_SECRET=
+- GITHUB_CLIENT_ID=
+- GITHUB_CLIENT_SECRET=
 
 Visit localhost:5000
 
