@@ -28,13 +28,15 @@
 
 ## Features
 - Video Call for more than 2 participants
+- Can make Multiple meetings simultaneously
 - Video on/off
 - Mic on/off
-- Chat
+- Chat in meeting
 - Authentication
 - ChatBot
 - Voice To Text
-
+- Live Location sharing
+- Wonderful UI
 
 ## Screenshots
 ![Example screenshot](./img/screenshot.jpeg)
