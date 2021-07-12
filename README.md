@@ -21,14 +21,15 @@
 ### Backend
 - Node.js
 - Express.js
-- peerJs
 - socket.io
 
 ### Real-Time Communication
 - peerJs
 
 ## Features
-- Video Call
+- Video Call for more than 2 participants
+- Video on/off
+- Mic on/off
 - Chat
 - Authentication
 - ChatBot
@@ -40,7 +41,8 @@
 
 
 ## Setup
-To run this project, install it locally using npm:
+To run this project locally, clone this repository and open root folder
+install it dependencies using npm:
 ```
 $ npm install
 $ npm start
