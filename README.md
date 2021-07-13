@@ -51,7 +51,7 @@ $ npm start
 ```
 Server will start at port 5000
 
-Open another terminal and run 
+In the root folder ,open another terminal and run 
 ```
 $ peerjs --port 5001
 ```
