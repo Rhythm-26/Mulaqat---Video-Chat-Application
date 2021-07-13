@@ -1,4 +1,4 @@
-# Mulaqat---Video-Chat-Application
+# Mulaqat---Video-Chat-Application | Microsoft Engage 2021 | Rhythm Narula
 > Mulaqat provides robust video-calling & messaging platform for users to connect and be productive.It a simple web based application made using peerJs library
 > Live demo [_here_](https://mulaqat.herokuapp.com). 
 
